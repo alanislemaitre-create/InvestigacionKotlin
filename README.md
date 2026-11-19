@@ -4,8 +4,6 @@ Aplicación de catálogo de productos hecha con **Kotlin Multiplatform (KMP)** y
 
 Proyecto de la investigación de frameworks móviles del curso **Desarrollo de Software IV**, Bachillerato en Informática Empresarial, Universidad de Costa Rica, Sede Regional del Pacífico.
 
-**Integrantes:** [Integrante 1] · [Integrante 2] · [Integrante 3]
-
 ---
 
 ## Funcionalidades
