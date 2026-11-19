@@ -58,8 +58,8 @@ Versiones principales de las librerías (ver `gradle/libs.versions.toml`):
 ### 1. Clonar el repositorio
 
 ```bash
-git clone [URL del repositorio]
-cd [nombre del repositorio]
+git clone (https://github.com/alanislemaitre-create/InvestigacionKotlin.git)
+cd InvestigacionKotlin
 ```
 
 ### 2. Levantar la API Django
@@ -68,7 +68,7 @@ cd [nombre del repositorio]
 cd backend-tienda-django
 
 # Crear y activar el entorno virtual
-python -m venv venv
+python -m venv .venv
 venv\Scripts\activate          # Windows
 # source venv/bin/activate     # macOS / Linux
 
