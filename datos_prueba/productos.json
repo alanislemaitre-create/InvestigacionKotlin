@@ -1,0 +1,97 @@
+[
+  {
+    "model": "productos.producto",
+    "pk": 4,
+    "fields": {
+      "nombre": "audifonos",
+      "descripcion": "diadema",
+      "precio": "75000.00",
+      "stock": 10,
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.producto",
+    "pk": 5,
+    "fields": {
+      "nombre": "audifonos",
+      "descripcion": "diadema",
+      "precio": "70000.00",
+      "stock": 8,
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.producto",
+    "pk": 6,
+    "fields": {
+      "nombre": "RTX 5060",
+      "descripcion": "Tarjeta de video",
+      "precio": "500.00",
+      "stock": 10,
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.producto",
+    "pk": 7,
+    "fields": {
+      "nombre": "Venilador 120mm",
+      "descripcion": "Ventilador de case de pc",
+      "precio": "10.00",
+      "stock": 15,
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.producto",
+    "pk": 8,
+    "fields": {
+      "nombre": "Asus RL240mm",
+      "descripcion": "Refrigeracion Liquida",
+      "precio": "100.00",
+      "stock": 10,
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.producto",
+    "pk": 9,
+    "fields": {
+      "nombre": "Barra led",
+      "descripcion": "Barra de iluminacion led",
+      "precio": "10.00",
+      "stock": 10,
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.producto",
+    "pk": 11,
+    "fields": {
+      "nombre": "Logitech Superlight",
+      "descripcion": "Mouse",
+      "precio": "100.00",
+      "stock": 10,
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.categoria",
+    "pk": 1,
+    "fields": {
+      "nombre": "Perifericos",
+      "descripcion": "Accesorios de computadoras",
+      "activo": true
+    }
+  },
+  {
+    "model": "productos.categoria",
+    "pk": 4,
+    "fields": {
+      "nombre": "Mueble",
+      "descripcion": "Mueble o algo",
+      "activo": false
+    }
+  }
+]
